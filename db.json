@@ -1,5 +1,7 @@
-[
-  { "id": 0, "name": "Cirno" },
-  { "id": 1, "name": "Daiyousei" },
-  { "id": 2, "name": "LilyWhite" }
-]
+{
+  "playables": [
+    { "id": 0, "name": "Cirno", "life": 3 },
+    { "id": 1, "name": "Daiyousei", "life": 1 },
+    { "id": 2, "name": "LilyWhite", "life": 2 }
+  ]
+}
