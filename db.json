@@ -1,8 +1,9 @@
 {
   "playables": [
-    { "id": 0, "name": "Cirno", "life": 3 },
-    { "id": 1, "name": "Daiyousei", "life": 1 },
-    { "id": 2, "name": "LilyWhite", "life": 2 },
-    { "id": 3, "name": "SunnyMilk", "life": 2 }
-  ]
+    { "id": 0, "name": "Cirno", "title": "placeholder", "life": 3 },
+    { "id": 1, "name": "Daiyousei", "title": "placeholder", "life": 1 },
+    { "id": 2, "name": "LilyWhite", "title": "placeholder", "life": 2 },
+    { "id": 3, "name": "SunnyMilk", "title": "placeholder", "life": 2 }
+  ],
+  "bosses": [{ "id": 0, "name": "Reimu", "title": "placeholder", "life": 10 }]
 }
