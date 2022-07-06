@@ -3,7 +3,12 @@
     { "id": 0, "name": "Cirno", "title": "placeholder", "life": 3 },
     { "id": 1, "name": "Daiyousei", "title": "placeholder", "life": 1 },
     { "id": 2, "name": "LilyWhite", "title": "placeholder", "life": 2 },
-    { "id": 3, "name": "SunnyMilk", "title": "placeholder", "life": 2 }
+    { "id": 3, "name": "SunnyMilk", "title": "placeholder", "life": 2 },
+    { "id": 4, "name": "LunaChild", "title": "placeholder", "life": 2 },
+    { "id": 5, "name": "StarSapphire", "title": "placeholder", "life": 3 },
+    { "id": 6, "name": "LilyBlack", "title": "placeholder", "life": 2 },
+    { "id": 7, "name": "Clownpiece", "title": "placeholder", "life": 1 },
+    { "id": 8, "name": "LarvaEternity", "title": "placeholder", "life": 2 }
   ],
   "bosses": [{ "id": 0, "name": "Reimu", "title": "placeholder", "life": 10 }]
 }
